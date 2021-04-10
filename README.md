@@ -1,0 +1,2 @@
+# News_Classification
+使用paddlehub完成新闻分类任务
